@@ -37,19 +37,19 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:background="@color/design_default_color_primary"
+            android:background="#1C00EE"/>
         <View
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/design_default_color_primary"
+            android:background="#10EE00"/>
         <View
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/design_default_color_primary"
+            android:background="#9C27B0"/>
         <View
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/design_default_color_primary"
+            android:background="#D6EE00"/>
 
 
 
